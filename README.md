@@ -1,6 +1,6 @@
 # **Project Report: Multi-Cloud Federated Kubernetes with AWS EKS and GCP GKE**
 
-**Author:** JAI DEV 
+**Author:** JAI DEV
 **Version:** 1.0
 
 ---
