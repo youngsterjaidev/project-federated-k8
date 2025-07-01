@@ -1,7 +1,6 @@
 # **Project Report: Multi-Cloud Federated Kubernetes with AWS EKS and GCP GKE**
 
-**Author:** [Your Name]  
-**Date:** June 19, 2025  
+**Author:** JAI DEV 
 **Version:** 1.0
 
 ---
